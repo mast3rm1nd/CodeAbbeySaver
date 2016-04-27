@@ -1,0 +1,13 @@
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CodeAbbeySaver\CodeAbbeySaver\obj\Debug\CodeAbbeySaver.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CodeAbbeySaver\CodeAbbeySaver\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CodeAbbeySaver\CodeAbbeySaver\obj\Debug\App.g.cs
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CodeAbbeySaver\CodeAbbeySaver\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CodeAbbeySaver\CodeAbbeySaver\obj\Debug\CodeAbbeySaver.Properties.Resources.resources
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CodeAbbeySaver\CodeAbbeySaver\obj\Debug\CodeAbbeySaver.csproj.GenerateResource.Cache
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CodeAbbeySaver\CodeAbbeySaver\bin\Debug\Code Savior.exe
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CodeAbbeySaver\CodeAbbeySaver\bin\Debug\Code Savior.pdb
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CodeAbbeySaver\CodeAbbeySaver\obj\Debug\Code Savior_MarkupCompile.cache
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CodeAbbeySaver\CodeAbbeySaver\obj\Debug\Code Savior_MarkupCompile.lref
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CodeAbbeySaver\CodeAbbeySaver\obj\Debug\Code Savior.g.resources
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CodeAbbeySaver\CodeAbbeySaver\obj\Debug\Code Savior.exe
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\CodeAbbeySaver\CodeAbbeySaver\obj\Debug\Code Savior.pdb
